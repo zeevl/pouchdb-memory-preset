@@ -1,0 +1,18 @@
+{
+  "name": "pouchdb-memory-preset",
+  "version": "1.0.0",
+  "description": "PouchDB, only in the mind",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pouchdb-adapter-http": "^7.0.0",
+    "pouchdb-adapter-memory": "^7.0.0",
+    "pouchdb-core": "^7.0.0",
+    "pouchdb-mapreduce": "^7.0.0",
+    "pouchdb-replication": "^7.0.0"
+  }
+}
