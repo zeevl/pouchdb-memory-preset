@@ -2,7 +2,7 @@
   "name": "pouchdb-memory-preset",
   "version": "1.0.0",
   "description": "PouchDB, only in the mind",
-  "main": "index.ts",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,5 +14,8 @@
     "pouchdb-core": "^7.0.0",
     "pouchdb-mapreduce": "^7.0.0",
     "pouchdb-replication": "^7.0.0"
+  },
+  "devDependencies": {
+    "pouchdb-memory-preset": "^1.0.0"
   }
 }

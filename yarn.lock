@@ -284,6 +284,16 @@ pouchdb-md5@7.0.0:
     pouchdb-binary-utils "7.0.0"
     spark-md5 "3.0.0"
 
+pouchdb-memory-preset@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/pouchdb-memory-preset/-/pouchdb-memory-preset-1.0.0.tgz#6900d3731ef3fd333ab8225df07b68e8d084bee7"
+  dependencies:
+    pouchdb-adapter-http "^7.0.0"
+    pouchdb-adapter-memory "^7.0.0"
+    pouchdb-core "^7.0.0"
+    pouchdb-mapreduce "^7.0.0"
+    pouchdb-replication "^7.0.0"
+
 pouchdb-merge@7.0.0:
   version "7.0.0"
   resolved "https://registry.yarnpkg.com/pouchdb-merge/-/pouchdb-merge-7.0.0.tgz#9f476ce7e32aae56904ad770ae8a1dfe14b57547"
